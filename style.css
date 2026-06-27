@@ -1,8 +1,13 @@
 /* 기본 스타일 – 필요에 따라 브랜치별로 색상만 바꾸면 연습 가능 */
 h1 {
-    color: black;
+    color: blue;
     /* v2‑style 브랜치에서 blue 로 바꿔보세요 */
     font-family: 'Inter', sans-serif;
     text-align: center;
     margin-top: 20%;
+}
+
+p {
+    text-align: center;
+    color: gray;
 }
